@@ -1,0 +1,13 @@
+
+const inmage = new Image()
+let i = 1;
+
+function Add(){
+    let input = document.getElementById("input"); 
+    let output = document.getElementById("output");
+
+    image.src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e470291a-f7e3-4e26-8765-30d7f9387f41/d4dn575-bbd4fe4d-ca50-4668-a99a-2a4d1fd8bfc3.png/v1/fill/w_1331,h_570,q_80,strp/major_alexander_degtyarev_by_ladynaginiwesker_d4dn575-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTcwIiwicGF0aCI6IlwvZlwvZTQ3MDI5MWEtZjdlMy00ZTI2LTg3NjUtMzBkN2Y5Mzg3ZjQxXC9kNGRuNTc1LWJiZDRmZTRkLWNhNTAtNDY2OC1hOTlhLTJhNGQxZmQ4YmZjMy5wbmciLCJ3aWR0aCI6Ijw9MTMzMSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.6u5vWGv9cf8blNgFDWFi-XaAbMyh5BiOZLdjC0L2TXE"
+    document.body.appendChild(image)
+
+    https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e470291a-f7e3-4e26-8765-30d7f9387f41/d4dn575-bbd4fe4d-ca50-4668-a99a-2a4d1fd8bfc3.png/v1/fill/w_1331,h_570,q_80,strp/major_alexander_degtyarev_by_ladynaginiwesker_d4dn575-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTcwIiwicGF0aCI6IlwvZlwvZTQ3MDI5MWEtZjdlMy00ZTI2LTg3NjUtMzBkN2Y5Mzg3ZjQxXC9kNGRuNTc1LWJiZDRmZTRkLWNhNTAtNDY2OC1hOTlhLTJhNGQxZmQ4YmZjMy5wbmciLCJ3aWR0aCI6Ijw9MTMzMSJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.6u5vWGv9cf8blNgFDWFi-XaAbMyh5BiOZLdjC0L2TXE
+}
